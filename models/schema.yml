@@ -2,7 +2,7 @@ version: 2
 
 models:
   - name: customers
-    description:Customers Table
+    description: Customers Table
     columns:
       - name: customer_id
         tests:
